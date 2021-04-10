@@ -689,3 +689,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 66.41.50.165 at 2021-04-10 17:30:12 +0000
+Processing by StaticController#about as HTML
+  Rendering static/some_page.html.erb
+  Rendered static/some_page.html.erb (0.4ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
